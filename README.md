@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi, I'm iNotLazo 👋
 
-<!--
-**iNotLazo/iNotLazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+* 🔭 I’m currently working on [@StrainLLC](https://github.com/StrainLLC).  
+* 🌱 I’m currently studying software engineering
+* 📫 Telegram: iNotLazo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/iNotLazo">
+  <img align="center" src=https://github-readme-stats.vercel.app/api?username=iNotLazo&hide=contribs,prs&show_icons=true&count_private=true&include_all_commits=true&theme=radical />
+</a>
+<a href="https://github.com/iNotLazo">
+  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=iNotLazo&layout=compact&theme=radical />
+</a>
+
+<br />
+<br />
+
+<a href="https://twitter.com/iNotLazo">
+  <img align="left" alt="RisasDev" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+
+<a href="https://community.ndevelopment.tech">
+  <img align="left" alt="iNotLazo#5003" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
+
+<br />

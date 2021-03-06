@@ -5,7 +5,7 @@
 * 🔭 I’m currently working on [@StrainLLC](https://github.com/StrainLLC).  
 * 🌱 I’m currently studying software engineering
 * 📫 Telegram: iNotLazo
-
+* 📫 Discord: iNotLazo#5003
 <a href="https://github.com/iNotLazo">
   <img align="center" src=https://github-readme-stats.vercel.app/api?username=iNotLazo&hide=contribs,prs&show_icons=true&count_private=true&include_all_commits=true&theme=radical />
 </a>
